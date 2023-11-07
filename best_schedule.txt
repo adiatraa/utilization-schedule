@@ -1,0 +1,11 @@
+SLA100A: Room - Beach 301, Time - 11, Facilitator - Banks
+SLA100B: Room - Beach 301, Time - 13, Facilitator - Zeldin
+SLA191A: Room - Loft 310, Time - 11, Facilitator - Glen
+SLA191B: Room - Beach 301, Time - 13, Facilitator - Glen
+SLA201: Room - Loft 206, Time - 12, Facilitator - Shaw
+SLA291: Room - Roman 201, Time - 11, Facilitator - Lock
+SLA303: Room - Roman 201, Time - 14, Facilitator - Glen
+SLA304: Room - Loft 310, Time - 15, Facilitator - Tyler
+SLA394: Room - Beach 201, Time - 15, Facilitator - Tyler
+SLA449: Room - Logos 325, Time - 11, Facilitator - Tyler
+SLA451: Room - Beach 201, Time - 12, Facilitator - Tyler
